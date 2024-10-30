@@ -1,0 +1,478 @@
+# Copyright (C) 2015 ChatMe Mini
+# This file is distributed under the same license as the ChatMe Mini package.
+msgid ""
+msgstr ""
+"Project-Id-Version: ChatMe Mini 5.3.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/chatmeim-mini\n"
+"POT-Creation-Date: 2015-12-20 09:27:31+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: chatmeim-mini.php:85
+msgid "Settings"
+msgstr ""
+
+#: chatmeim-mini.php:85
+msgid "Shortcode"
+msgstr ""
+
+#: includes/class.chatmini.php:18
+msgid "anonymous server"
+msgstr ""
+
+#: includes/class.chatmini.php:19
+msgid "The anonymous server of your XMPP service, default: anonymous.chatme.im"
+msgstr ""
+
+#: includes/class.chatmini.php:24 includes/class.chatmini.php:217
+msgid "Chat rooms password"
+msgstr ""
+
+#: includes/class.chatmini.php:25
+msgid ""
+"This is the password of chat room where the user enter when click the chat "
+"button, remeber that"
+msgstr ""
+
+#: includes/class.chatmini.php:25
+msgid "password is visble in HTML code"
+msgstr ""
+
+#: includes/class.chatmini.php:25
+msgid "of page and"
+msgstr ""
+
+#: includes/class.chatmini.php:25
+msgid "it is not possible to hide it."
+msgstr ""
+
+#: includes/class.chatmini.php:29
+msgid "Other Resources"
+msgstr ""
+
+#: includes/class.chatmini.php:29
+msgid "Jappix Official Site"
+msgstr ""
+
+#: includes/class.chatmini.php:29
+msgid "Jappix Official Documentation"
+msgstr ""
+
+#: includes/class.chatmini.php:29
+msgid "XMPP.net"
+msgstr ""
+
+#: includes/class.chatmini.php:29
+msgid "ChatMe Site"
+msgstr ""
+
+#: includes/class.chatmini.php:142
+msgid "ChatMe Mini Options"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (ChatMe Mini 5.3.3)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/class.chatmini.php:142
+msgid "ChatMe Mini"
+msgstr ""
+
+#: includes/class.chatmini.php:167 includes/class.shortcode.php:27
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: includes/class.chatmini.php:172
+msgid "For more information visit"
+msgstr ""
+
+#: includes/class.chatmini.php:172
+msgid "www.chatme.im"
+msgstr ""
+
+#: includes/class.chatmini.php:172
+msgid "Support Chat Room"
+msgstr ""
+
+#: includes/class.chatmini.php:172
+msgid "Enable Chat service in your domain"
+msgstr ""
+
+#: includes/class.chatmini.php:173
+msgid "For subscribe your account visit"
+msgstr ""
+
+#: includes/class.chatmini.php:173
+msgid "http://chatme.im/servizi/domini-disponibili/"
+msgstr ""
+
+#: includes/class.chatmini.php:180
+msgid "Insert a custom Jappix Installation url"
+msgstr ""
+
+#: includes/class.chatmini.php:181
+msgid "https://webchat.chatme.im"
+msgstr ""
+
+#: includes/class.chatmini.php:181
+msgid "Insert your Jappix installation URL"
+msgstr ""
+
+#: includes/class.chatmini.php:185
+msgid "Insert a custom Bind Server URL"
+msgstr ""
+
+#: includes/class.chatmini.php:186
+msgid "https://bind.chatme.im"
+msgstr ""
+
+#: includes/class.chatmini.php:186
+msgid ""
+"If you use a local XMPP server or a XMPP without SRV record in DNS you must "
+"enter a custom bind server"
+msgstr ""
+
+#: includes/class.chatmini.php:190
+msgid "Insert your custom anonymous server"
+msgstr ""
+
+#: includes/class.chatmini.php:191
+msgid "anonymous.chatme.im"
+msgstr ""
+
+#: includes/class.chatmini.php:195
+msgid "Auto login to the account"
+msgstr ""
+
+#: includes/class.chatmini.php:200
+msgid "Auto show the opened chat"
+msgstr ""
+
+#: includes/class.chatmini.php:205
+msgid "Display an animated image when the user is not connected"
+msgstr ""
+
+#: includes/class.chatmini.php:207
+msgid "Custom Icon URL"
+msgstr ""
+
+#: includes/class.chatmini.php:207
+msgid ""
+"Insert your custom icon url, default: https://webchat.chatme.im/app/images/"
+"sprites/animate.png size: 80x74 px"
+msgstr ""
+
+#: includes/class.chatmini.php:212
+msgid "Chat rooms to join (if any)"
+msgstr ""
+
+#: includes/class.chatmini.php:213
+msgid "piazza@conference.chatme.im"
+msgstr ""
+
+#: includes/class.chatmini.php:213
+msgid "For create a Chat Room use Desktop"
+msgstr ""
+
+#: includes/class.chatmini.php:213
+msgid "Client"
+msgstr ""
+
+#: includes/class.chatmini.php:213
+msgid "or go to"
+msgstr ""
+
+#: includes/class.chatmini.php:213
+msgid "Here."
+msgstr ""
+
+#: includes/class.chatmini.php:218
+msgid "Chat Room Password"
+msgstr ""
+
+#: includes/class.chatmini.php:218
+msgid ""
+"The password of Chat Room, please attention the password is visible in HTML "
+"code "
+msgstr ""
+
+#: includes/class.chatmini.php:222
+msgid "Chat with site admin"
+msgstr ""
+
+#: includes/class.chatmini.php:223
+msgid "admin"
+msgstr ""
+
+#: includes/class.chatmini.php:227
+msgid "Available only for logged users"
+msgstr ""
+
+#: includes/class.chatmini.php:232
+msgid "Hide for mobile user"
+msgstr ""
+
+#: includes/class.chatmini.php:237
+msgid "Priority"
+msgstr ""
+
+#: includes/class.chatmini.php:240
+msgid "Low"
+msgstr ""
+
+#: includes/class.chatmini.php:241
+msgid "Medium"
+msgstr ""
+
+#: includes/class.chatmini.php:242
+msgid "Height"
+msgstr ""
+
+#: includes/class.chatmini.php:248
+msgid "Mini Jappix language"
+msgstr ""
+
+#: includes/class.chatmini.php:254
+msgid "Some of Site"
+msgstr ""
+
+#: includes/class.chatmini.php:255
+msgid "Deutsch"
+msgstr ""
+
+#: includes/class.chatmini.php:256
+msgid "English"
+msgstr ""
+
+#: includes/class.chatmini.php:257
+msgid "Esperanto"
+msgstr ""
+
+#: includes/class.chatmini.php:258
+msgid "Espa&ntilde;ol"
+msgstr ""
+
+#: includes/class.chatmini.php:259
+msgid "Fran&ccedil;ais"
+msgstr ""
+
+#: includes/class.chatmini.php:260
+msgid "Italiano"
+msgstr ""
+
+#: includes/class.chatmini.php:261
+msgid "Japan"
+msgstr ""
+
+#: includes/class.chatmini.php:262
+msgid "Nederlands"
+msgstr ""
+
+#: includes/class.chatmini.php:263
+msgid "Polski"
+msgstr ""
+
+#: includes/class.chatmini.php:264
+msgid "Russian"
+msgstr ""
+
+#: includes/class.chatmini.php:265
+msgid "Svenska"
+msgstr ""
+
+#: includes/class.chatmini.php:266
+msgid "Hungarian"
+msgstr ""
+
+#: includes/class.chatmini.php:272
+msgid "Custom Style"
+msgstr ""
+
+#: includes/class.chatmini.php:273
+msgid "For Advance use try chat_html hook"
+msgstr ""
+
+#: includes/class.chatmini.php:280
+msgid "For Ever request you can use our"
+msgstr ""
+
+#: includes/class.chatmini.php:280 includes/class.shortcode.php:36
+msgid "forum"
+msgstr ""
+
+#: includes/class.chatmini.php:282
+msgid "Donation"
+msgstr ""
+
+#: includes/class.login_widget.php:7
+msgid "Chatme Login Widget"
+msgstr ""
+
+#: includes/class.login_widget.php:9
+msgid "ChatMe Login Form"
+msgstr ""
+
+#: includes/class.login_widget.php:21
+msgid "ChatMe.im Login"
+msgstr ""
+
+#: includes/class.login_widget.php:26
+msgid "Username"
+msgstr ""
+
+#: includes/class.login_widget.php:26 includes/class.status_widget.php:48
+msgid "user@host"
+msgstr ""
+
+#: includes/class.login_widget.php:27
+msgid "Password"
+msgstr ""
+
+#: includes/class.login_widget.php:28
+msgid "Login to Chat"
+msgstr ""
+
+#: includes/class.login_widget.php:50
+msgid "Not more option for this widget"
+msgstr ""
+
+#: includes/class.shortcode.php:22 includes/class.shortcode.php:31
+msgid "ChatMe Shortocode Help"
+msgstr ""
+
+#: includes/class.shortcode.php:22
+msgid "ChatMe Shortcode Help"
+msgstr ""
+
+#: includes/class.shortcode.php:32
+msgid "This code show user status (online/offline/etc):"
+msgstr ""
+
+#: includes/class.shortcode.php:32
+msgid "user"
+msgstr ""
+
+#: includes/class.shortcode.php:32
+msgid "insert the user with the domain (example: user@chatme.im)"
+msgstr ""
+
+#: includes/class.shortcode.php:32
+msgid "link"
+msgstr ""
+
+#: includes/class.shortcode.php:32
+msgid "(boolean): can be 0 (default) for not link and 1 for link to the user"
+msgstr ""
+
+#: includes/class.shortcode.php:33
+msgid "This code show a list of default chat room."
+msgstr ""
+
+#: includes/class.shortcode.php:33
+msgid "anon"
+msgstr ""
+
+#: includes/class.shortcode.php:33
+msgid ""
+"(boolean): can be 0 for not anonymous login (require username and password) "
+"or 1 (default) for chat only with nickname."
+msgstr ""
+
+#: includes/class.shortcode.php:34
+msgid "This shortcode show a chat room in your wordpress page:"
+msgstr ""
+
+#: includes/class.shortcode.php:34
+msgid "room"
+msgstr ""
+
+#: includes/class.shortcode.php:34
+msgid "the name of the chat room (default: piazza@conference.chatme.im)"
+msgstr ""
+
+#: includes/class.shortcode.php:34
+msgid "width"
+msgstr ""
+
+#: includes/class.shortcode.php:34
+msgid "the frame width (default: 100%)"
+msgstr ""
+
+#: includes/class.shortcode.php:34
+msgid "height"
+msgstr ""
+
+#: includes/class.shortcode.php:34
+msgid "the height of frame (default: 100%)"
+msgstr ""
+
+#: includes/class.shortcode.php:34
+msgid "hosted"
+msgstr ""
+
+#: includes/class.shortcode.php:34
+msgid ""
+"(boolean): can be 0 (default) for not hosted domain and 1 if you have a "
+"custom domain hosted in ChatMe XMPP server"
+msgstr ""
+
+#: includes/class.shortcode.php:35
+msgid "This shortcode show Internet Swatch Time."
+msgstr ""
+
+#: includes/class.shortcode.php:36
+msgid "For more information visit our"
+msgstr ""
+
+#: includes/class.shortcode.php:65
+msgid "Chat with"
+msgstr ""
+
+#: includes/class.shortcode.php:85 includes/class.shortcode.php:94
+msgid "Login to the room"
+msgstr ""
+
+#: includes/class.shortcode.php:93
+msgid "Nickname"
+msgstr ""
+
+#: includes/class.shortcode.php:114
+msgid "Iframe not supported from browser"
+msgstr ""
+
+#: includes/class.status_widget.php:6
+msgid "Display the ChatMe User Status"
+msgstr ""
+
+#: includes/class.status_widget.php:7
+msgid "ChatMe Status Picture"
+msgstr ""
+
+#: includes/class.status_widget.php:23
+msgid "ChatMe Status"
+msgstr ""
+
+#: includes/class.status_widget.php:48
+msgid "ChatMe Username with domain"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.chatme.im/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin add the javascript code for ChatMe Mini a Jabber/XMPP group chat "
+"for your WordPress. Also add ChatMe Shortcode and Widget for more chat "
+"integrations."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "camaran"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.chatme.im"
+msgstr ""
